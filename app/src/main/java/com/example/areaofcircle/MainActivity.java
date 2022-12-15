@@ -38,6 +38,7 @@ public class MainActivity extends AppCompatActivity {
                     }
                 }
                 catch(Exception e){
+
                     Log.e("e", "invalid try again");
                 }
             }
